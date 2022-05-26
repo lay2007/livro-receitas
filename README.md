@@ -1,7 +1,7 @@
 
-# Livro de Receitas :chef
+# Livro de Receitas 👨‍🍳
 
- Olá! Bem vindo ao livro de receitas.
+ Olá! Bem vindo ao livro de receitas. 👋
 
  - Brigadeiro
  - Empada
