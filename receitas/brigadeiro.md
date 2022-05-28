@@ -1,6 +1,6 @@
 # Receita de Brigadeiro :construction
 
-**Negrito** _Itálico_ 
+**Negrito _Itálico_ 
 
 ### Ingredientes
 
